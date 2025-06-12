@@ -59,3 +59,5 @@ The Rock-Paper-Scissors game is implemented using Python, showcasing fundamental
 ## Conclusion
 
 The Rock-Paper-Scissors game is a delightful project that combines simplicity with engaging gameplay. It serves as an excellent introduction to programming concepts for beginners while providing an enjoyable experience for players. The implementation demonstrates how basic functions and control structures can be used to create an interactive application. Whether you're looking to practice your coding skills or simply enjoy a classic game, this Rock-Paper-Scissors implementation is a perfect choice. With its user-friendly interface and straightforward mechanics, it invites players to challenge themselves and have fun in the process.
+
+*OUTPUT*:<img width="757" alt="Image" src="https://github.com/user-attachments/assets/df09d738-947e-4383-8867-ceda48c8c178" />
